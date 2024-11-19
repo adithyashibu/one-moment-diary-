@@ -12,3 +12,6 @@ A simple digital diary where you can write and save daily moments.
 - Choose a background color.
 - Click "Save Moment" to save your entry.
 - Entries will be saved and displayed on the timeline.
+
+        try this 
+        https://onemoment-dailydairy.netlify.app
